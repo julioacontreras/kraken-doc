@@ -50,7 +50,7 @@ npm run create-module myModule
 
 Run the application:
 ``` bash
-npm run dev
+npm run watch
 ```
 
 Execute on browser:
