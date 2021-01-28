@@ -4,6 +4,9 @@
 
 ``` bash
 git clone https://github.com/julioacontreras/kraken
+cd kraken
+npm i
+npm run dev
 ```
 
 ## Commands
