@@ -68,5 +68,5 @@ $ npm run start
 $ npm run test
 
 # Create new module
-npm run create-module <name module>
+npm run create-module <name>
 ```
