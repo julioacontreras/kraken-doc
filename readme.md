@@ -37,7 +37,7 @@ npm run create-module myModule
     - services
     - tests
 ✔ Updated configuration.
-* Ready to use.
+★ Ready to use.
 -------------------------
 ```
 
