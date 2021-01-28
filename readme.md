@@ -6,6 +6,17 @@
 git clone https://github.com/julioacontreras/kraken
 cd kraken
 npm i
+```
+
+Create file `.env` with the text below:
+``` bash
+PROTOCOL=http
+HOST=localhost
+PORT=3000
+APP_URL=http://localhost
+```
+
+``` bash
 npm run dev
 ```
 
