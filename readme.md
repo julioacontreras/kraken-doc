@@ -2,14 +2,14 @@
 
 ## Get Started
 
-To get started open your console and digit:
+To get started your project:
 ``` bash
 git clone https://github.com/julioacontreras/kraken
 cd kraken
 npm i
 ```
 
-Create file `.env` with the text below:
+Create `.env` file:
 ``` bash
 PROTOCOL=http
 HOST=localhost
@@ -17,7 +17,7 @@ PORT=3000
 APP_URL=http://localhost
 ```
 
-To run the application digit:
+Run the application:
 ``` bash
 npm run dev
 ```
