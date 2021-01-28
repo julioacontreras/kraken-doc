@@ -2,6 +2,7 @@
 
 ## Get Started
 
+To get started open your console and digit:
 ``` bash
 git clone https://github.com/julioacontreras/kraken
 cd kraken
@@ -16,6 +17,7 @@ PORT=3000
 APP_URL=http://localhost
 ```
 
+To run the application digit:
 ``` bash
 npm run dev
 ```
