@@ -32,7 +32,7 @@ npm run create-module myModule
     - controllers
       - index.js
     - domains
-      - hellowWorld.js
+      - myDomain.js
     - models
       - index.js
     - register
