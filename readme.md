@@ -46,6 +46,12 @@ Run the application:
 npm run dev
 ```
 
+Execute on brwoser:
+``` bash
+http://localhost:300/api/my-mocule
+```
+
+
 ## Commands
 
 ``` bash
