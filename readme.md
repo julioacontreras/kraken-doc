@@ -2,12 +2,16 @@
 
 ## Get Started
 
+### Install
+
 To get started your project:
 ``` bash
 git clone https://github.com/julioacontreras/kraken
 cd kraken
 npm i
 ```
+
+### Hellow world
 
 Create `.env` file:
 ``` bash
