@@ -72,7 +72,7 @@ npm run watch
 npm run start
 
 # Run tests
-npm run test
+npm run tests
 
 # Create new module
 npm run create-module <name>
