@@ -6,7 +6,7 @@
 git clone https://github.com/julioacontreras/kraken
 ```
 
-## Get Started
+## Commands
 
 ``` bash
 #Run application in developmente mode
