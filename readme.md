@@ -21,6 +21,26 @@ PORT=3000
 APP_URL=http://localhost
 ```
 
+Create my module:
+``` bash
+npm run create-module myModule
+-------------------------
+✔ Created module.
+- src
+ - modules
+  - myModule 
+    - controllers
+    - domains
+    - models
+    - register
+    - routes
+    - services
+    - tests
+✔ Updated configuration.
+* Ready to use.
+-------------------------
+```
+
 Run the application:
 ``` bash
 npm run dev
