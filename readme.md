@@ -56,16 +56,16 @@ http://localhost:300/api/my-mocule
 
 ``` bash
 #Run application in developmente mode
-$ npm run dev
+npm run dev
 
 #Run dev mode restarting whe change some file
-$ npm run watch
+npm run watch
 
 # Deploy
-$ npm run start
+npm run start
 
 # Run tests
-$ npm run test
+npm run test
 
 # Create new module
 npm run create-module <name>
