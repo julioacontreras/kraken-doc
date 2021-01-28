@@ -30,12 +30,19 @@ npm run create-module myModule
  - modules
   - myModule 
     - controllers
+      - index.js
     - domains
+      - hellowWorld.js
     - models
+      - index.js
     - register
+      - index.js
     - routes
+      - index.js
     - services
+      - index.js
     - tests
+      - index.test.js
 ✔ Updated configuration.
 ★ Ready to use.
 -------------------------
